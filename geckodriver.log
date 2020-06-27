@@ -1,0 +1,70 @@
+1593247159861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofilepp83at"
+1593247163806	Marionette	INFO	Listening on port 62543
+1593247163855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn-client.medium.com/lite/static/js/main.9619dff9.chunk.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1593247186409	Marionette	INFO	Stopped listening on port 62543
+1593247237313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofileIOWjQD"
+1593247240466	Marionette	INFO	Listening on port 62699
+1593247240527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1593248053455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofilevrfav5"
+1593248056689	Marionette	INFO	Listening on port 62825
+1593248056738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593248072873	Marionette	INFO	Stopped listening on port 62699
+1593248076717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofile2uCe4p"
+1593248080361	Marionette	INFO	Listening on port 62938
+1593248080437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1593248092554	Marionette	INFO	Stopped listening on port 62938
+1593248465340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofileyR9SI2"
+1593248468268	Marionette	INFO	Listening on port 63205
+1593248468374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1C0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1593249793642	Marionette	INFO	Stopped listening on port 63205
+1593249795696	Marionette	INFO	Stopped listening on port 62825
+1593249801915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofile59fMvu"
+1593249805048	Marionette	INFO	Listening on port 63372
+1593249805117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1593249830741	Marionette	INFO	Stopped listening on port 63372
+1593251380645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofileibDaeg"
+1593251383820	Marionette	INFO	Listening on port 63561
+1593251383859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 53: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1593251456255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofileHWoyJB"
+1593251459554	Marionette	INFO	Listening on port 63688
+1593251459575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 53: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1593251501225	Marionette	INFO	Stopped listening on port 63561
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1C0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1593251503100	Marionette	INFO	Stopped listening on port 63688
+1593251507851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z6/7_62k2qx7gv4bjrwfz1blqt80000gn/T/rust_mozprofileyP4mEo"
+1593251510845	Marionette	INFO	Listening on port 63782
+1593251510925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 53: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
